@@ -5,17 +5,13 @@ Q1:
 int main(int argc, char** argv) {
 
 	int a = 3;
-	
 	int b = 5;
-	
 	int c;
-	
 	int d;
-	
 	int e;
 	c = a*b;
 	d = a/2;
-                e = c- d;
+        e = c- d;
 	printf("%d\n",e);
 	system("pause");	
 	
@@ -47,7 +43,7 @@ The functionality of the code is to pick the maximun value of the array [12,15,2
 Q3:
 
 int main(int argc, char** argv) {
-	int a =
+	int a =100 ;
 	int b;
 	int c;
 	int d;
@@ -75,6 +71,7 @@ Q4:
 #include <stdio.h>
 int proc1(int *a1, int a2, int a3)
 {
+
   int v4; 
   int v5;
   int v6; 
